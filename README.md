@@ -1,3 +1,3 @@
 # 2024STB_SeungJaeLEE
 
-this is my first job
+this is my first job!
